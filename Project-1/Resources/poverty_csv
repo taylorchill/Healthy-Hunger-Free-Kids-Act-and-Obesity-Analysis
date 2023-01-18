@@ -1,0 +1,19 @@
+Year,State FIPS,Postal Code,Name,Poverty Percent All Ages,Median Household Income,Poverty Estimate Ages 5-17,Poverty Percent Ages 5-17
+2003,0,US,United States,12.5,"43,318","8,399,573",16.1
+2004,0,US,United States,12.7,"44,334","8,430,886",16.2
+2005,0,US,United States,13.3,46242,8765541,17.0
+2006,0,US,United States,13.3,48451,8700048,16.7
+2007,0,US,United States,13.0,50740,8499844,16.4
+2008,0,US,United States,13.2,52029,8549526,16.5
+2009,0,US,United States,14.3,50221,9509142,18.2
+2010,0,US,United States,15.3,"50,046","10,484,513",19.8
+2011,0,US,United States,15.9,"50,502","10,976,987",20.8
+2012,0,US,United States,15.9,"51,371","11,086,537",21.0
+2013,0,US,United States,15.8,"52,250","10,958,232",20.8
+2014,0,US,United States,15.5,"53,657","10,714,518",20.4
+2015,0,US,United States,14.7,"55,775","10,245,028",19.5
+2016,0,US,United States,14.0,"57,617","9,648,486",18.3
+2017,0,US,United States,13.4,"60,336","9,120,503",17.3
+2018,0,US,United States,13.1,"61,937","8,930,152",17.0
+2019,0,US,United States,12.3,"65,712","8,258,906",15.8
+2020,0,US,United States,11.9,"67,340","7,798,566",14.9

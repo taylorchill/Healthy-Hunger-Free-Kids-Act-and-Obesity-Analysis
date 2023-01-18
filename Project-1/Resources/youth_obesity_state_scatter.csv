@@ -1,0 +1,355 @@
+Year,Location,% Obesity in Adolescents
+2019,Alabama,17.2
+2005,Alabama,14.6
+2003,Alabama,13.3
+2011,Alabama,17
+2009,Alabama,13.3
+2001,Alabama,12.3
+2015,Alabama,16.1
+2013,Alabama,17.1
+2017,Alaska,13.7
+2007,Alaska,11
+2019,Alaska,14.8
+2003,Alaska,11
+2011,Alaska,11.5
+2015,Alaska,14
+2009,Alaska,11.9
+2013,Alaska,12.4
+2019,Arizona,13.3
+2013,Arizona,10.7
+2005,Arizona,11.8
+2007,Arizona,11.6
+2003,Arizona,11.1
+2011,Arizona,10.9
+2015,Arizona,10.9
+2009,Arizona,12.8
+2017,Arizona,12.3
+2007,Arkansas,13.7
+2009,Arkansas,14.3
+2019,Arkansas,22.1
+2017,Arkansas,21.7
+2005,Arkansas,15.3
+2013,Arkansas,17.8
+2001,Arkansas,13.7
+2011,Arkansas,15.2
+2015,Arkansas,18
+2019,California,15.9
+2017,California,13.9
+2015,California,13.9
+2009,Colorado,6.9
+2019,Colorado,10.3
+2017,Colorado,9.5
+2005,Colorado,9.6
+2011,Colorado,7.3
+2013,Connecticut,12.3
+2005,Connecticut,11.1
+2007,Connecticut,12.2
+2009,Connecticut,10.2
+2019,Connecticut,14.4
+2011,Connecticut,12.5
+2017,Connecticut,12.7
+2015,Connecticut,12.3
+2001,Delaware,10.7
+2013,Delaware,14.2
+2005,Delaware,14
+2011,Delaware,12.2
+2003,Delaware,13.3
+2017,Delaware,15.1
+2015,Delaware,15.8
+2009,Delaware,13.5
+2007,Delaware,13.2
+2011,Florida,11.5
+2019,Florida,14
+2017,Florida,10.9
+2015,Florida,12.3
+2009,Florida,10.3
+2007,Florida,11.2
+2003,Florida,12.1
+2013,Florida,11.6
+2001,Florida,10.1
+2005,Florida,10.8
+2019,Georgia,18.3
+2005,Georgia,12.3
+2013,Georgia,12.7
+2009,Georgia,12.3
+2003,Georgia,11
+2007,Georgia,13.7
+2011,Georgia,15
+2019,Hawaii,16.4
+2017,Hawaii,14.2
+2013,Hawaii,13.4
+2009,Hawaii,14.2
+2007,Hawaii,15.2
+2015,Hawaii,12.9
+2011,Hawaii,13.2
+2005,Hawaii,13.1
+2019,Idaho,12.1
+2015,Idaho,11.1
+2013,Idaho,9.6
+2005,Idaho,7.2
+2009,Idaho,8.7
+2011,Idaho,9.2
+2017,Idaho,11.4
+2001,Idaho,7.2
+2007,Idaho,10.9
+2003,Idaho,7.4
+2009,Illinois,11.9
+2019,Illinois,15.2
+2013,Illinois,11.5
+2015,Illinois,12.6
+2017,Illinois,14.8
+2007,Illinois,12.8
+2011,Illinois,11.6
+2009,Indiana,12.6
+2011,Indiana,14.7
+2007,Indiana,13.7
+2005,Indiana,14.9
+2015,Indiana,13.6
+2003,Indiana,11.3
+2011,Iowa,13.2
+2005,Iowa,12.2
+2019,Iowa,17
+2017,Iowa,15.3
+2007,Iowa,11.1
+2009,Kansas,12.2
+2013,Kansas,12.6
+2019,Kansas,15.1
+2017,Kansas,13.1
+2005,Kansas,11.8
+2011,Kansas,10.2
+2007,Kansas,11
+2007,Kentucky,15.4
+2019,Kentucky,18.4
+2013,Kentucky,18
+2017,Kentucky,20.2
+2003,Kentucky,14.5
+2005,Kentucky,15.4
+2015,Kentucky,18.5
+2009,Kentucky,17.4
+2011,Kentucky,16.5
+2019,Louisiana,16.5
+2017,Louisiana,17
+2009,Louisiana,14.4
+2007,Louisiana,15.4
+2011,Louisiana,16.1
+2013,Louisiana,13.5
+2019,Maine,14.9
+2017,Maine,14.3
+2011,Maine,11.5
+2005,Maine,10.8
+2001,Maine,10.2
+2009,Maine,12.5
+2015,Maine,13.3
+2013,Maine,11.6
+2003,Maine,12.7
+2007,Maine,12.6
+2005,Maryland,12.6
+2013,Maryland,11
+2019,Maryland,12.8
+2009,Maryland,12
+2011,Maryland,12
+2015,Maryland,11.5
+2007,Maryland,12.9
+2017,Maryland,12.6
+2005,Michigan,12
+2019,Michigan,15.3
+2013,Michigan,13
+2001,Michigan,10.6
+2017,Michigan,16.7
+2009,Michigan,11.9
+2011,Michigan,12.1
+2015,Michigan,14.3
+2007,Michigan,12.4
+2003,Michigan,12.3
+2003,Missouri,12.1
+2019,Missouri,18.4
+2013,Missouri,14.9
+2015,Missouri,13.1
+2007,Missouri,11.9
+2005,Missouri,13.8
+2001,Missouri,12.7
+2009,Missouri,14.3
+2017,Missouri,16.6
+2019,Montana,11.5
+2013,Montana,9.4
+2017,Montana,11.7
+2009,Montana,10.3
+2015,Montana,10.3
+2007,Montana,10.1
+2003,Montana,8
+2011,Montana,8.5
+2005,Montana,9.3
+2001,Montana,6.1
+2003,Nebraska,10.4
+2019,Nebraska,13.3
+2013,Nebraska,12.7
+2017,Nebraska,14.6
+2011,Nebraska,11.6
+2015,Nebraska,13
+2005,Nebraska,10.9
+2015,Nevada,12.2
+2019,Nevada,12.3
+2009,Nevada,10.9
+2017,Nevada,14
+2007,Nevada,10.8
+2013,Nevada,11.4
+2003,New Hampshire,9.7
+2005,New Hampshire,11.3
+2019,New Hampshire,12.7
+2015,New Hampshire,12.2
+2013,New Hampshire,11.2
+2011,New Hampshire,12.1
+2017,New Hampshire,12.8
+2009,New Hampshire,11.9
+2007,New Hampshire,11.5
+2011,New Jersey,11
+2019,New Jersey,11.9
+2005,New Jersey,11.3
+2001,New Jersey,10
+2009,New Jersey,10.2
+2013,New Jersey,8.7
+2019,New Mexico,15.2
+2015,New Mexico,15.6
+2005,New Mexico,12
+2007,New Mexico,10.9
+2011,New Mexico,12.8
+2013,New Mexico,12.6
+2017,New Mexico,15.3
+2009,New Mexico,13.5
+2019,New York,13.4
+2007,New York,10.8
+2009,New York,10.8
+2013,New York,10.6
+2005,New York,10.3
+2017,New York,12.4
+2011,New York,11
+2003,New York,12.7
+2015,New York,13.1
+2009,North Carolina,13.2
+2011,North Carolina,12.9
+2005,North Carolina,13.4
+2003,North Carolina,12.4
+2019,North Carolina,15.4
+2013,North Carolina,12.5
+2017,North Carolina,15.4
+2015,North Carolina,16.4
+2001,North Carolina,12.8
+2007,North Carolina,12.7
+2017,North Dakota,14.9
+2001,North Dakota,9.2
+2003,North Dakota,9.2
+2019,North Dakota,14
+2013,North Dakota,13.5
+2009,North Dakota,10.9
+2015,North Dakota,14
+2005,North Dakota,11.1
+2007,North Dakota,9.9
+2011,North Dakota,11
+2011,Ohio,14.7
+2019,Ohio,16.8
+2007,Ohio,12.3
+2013,Ohio,13
+2005,Ohio,12.7
+2003,Ohio,13.8
+2005,Oklahoma,15.1
+2015,Oklahoma,17.3
+2019,Oklahoma,17.6
+2007,Oklahoma,14.6
+2011,Oklahoma,16.7
+2009,Oklahoma,14
+2017,Oklahoma,17.1
+2003,Oklahoma,11
+2013,Oklahoma,11.8
+2019,Pennsylvania,15.4
+2015,Pennsylvania,14
+2017,Pennsylvania,13.7
+2009,Pennsylvania,11.7
+2011,Rhode Island,10.8
+2001,Rhode Island,9.1
+2019,Rhode Island,14.3
+2007,Rhode Island,10.6
+2017,Rhode Island,15.2
+2005,Rhode Island,12.8
+2003,Rhode Island,9.8
+2013,Rhode Island,10.7
+2009,Rhode Island,10.2
+2015,Rhode Island,12
+2019,South Carolina,16.6
+2013,South Carolina,13.9
+2011,South Carolina,13.3
+2015,South Carolina,16.3
+2009,South Carolina,16.5
+2017,South Carolina,17.2
+2005,South Carolina,12.6
+2007,South Carolina,14.3
+2019,South Dakota,14.1
+2003,South Dakota,9.4
+2001,South Dakota,7.5
+2011,South Dakota,9.8
+2005,South Dakota,10.4
+2013,South Dakota,11.9
+2009,South Dakota,9.5
+2007,South Dakota,9
+2015,South Dakota,14.7
+2005,Tennessee,14.4
+2003,Tennessee,15.1
+2019,Tennessee,20.9
+2007,Tennessee,16.8
+2017,Tennessee,20.5
+2015,Tennessee,18.6
+2009,Tennessee,15.7
+2011,Tennessee,15.2
+2013,Tennessee,16.9
+2005,Texas,13.7
+2019,Texas,16.9
+2007,Texas,15.5
+2017,Texas,18.6
+2011,Texas,15.6
+2001,Texas,14
+2009,Texas,13.2
+2013,Texas,15.7
+2013,Utah,6.4
+2009,Utah,6.3
+2001,Utah,6.1
+2017,Utah,9.6
+2019,Utah,9.8
+2011,Utah,8.6
+2005,Utah,5.5
+2003,Utah,6.9
+2007,Utah,8.6
+2011,Vermont,9.9
+2019,Vermont,13.1
+2013,Vermont,13.2
+2007,Vermont,11.5
+2003,Vermont,10.6
+2009,Vermont,12.2
+2017,Vermont,12.6
+2005,Vermont,9.5
+2001,Vermont,9.4
+2015,Vermont,12.4
+2013,West Virginia,15.6
+2019,West Virginia,22.9
+2011,West Virginia,14.6
+2007,West Virginia,14.5
+2003,West Virginia,13.6
+2017,West Virginia,19.5
+2015,West Virginia,17.9
+2009,West Virginia,14.1
+2005,West Virginia,14.5
+2007,Wisconsin,11
+2009,Wisconsin,9.3
+2019,Wisconsin,14.5
+2011,Wisconsin,10.4
+2001,Wisconsin,9.5
+2017,Wisconsin,13.7
+2003,Wisconsin,10.3
+2005,Wisconsin,9.8
+2013,Wisconsin,11.6
+2001,Wyoming,6.5
+2015,Wyoming,11
+2013,Wyoming,10.7
+2003,Wyoming,7.2
+2005,Wyoming,8.3
+2007,Wyoming,9.2
+2011,Wyoming,11.1
+2009,Wyoming,9.7
